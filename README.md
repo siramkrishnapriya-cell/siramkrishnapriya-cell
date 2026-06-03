@@ -17,7 +17,7 @@
 - IoT Gas Detection System
 
 ## Technical Skills
-Python • JavaScript • React.js • Next.js • SQL • Machine Learning • Git • GitHub
+Python • JavaScript • React.js • Next.js • SQL • Machine Learning • Data Structures & Algorithms • Object-Oriented Programming • Git • GitHub
 
 ## Contact
 📧 siramkrishnapriya@gmail.com
