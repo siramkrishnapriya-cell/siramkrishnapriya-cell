@@ -4,7 +4,7 @@
 
 💻 Aspiring Software Engineer with experience in Full Stack Development, AI, Machine Learning and IoT.
 
- LeetCode: 256+ Problems Solved
+ LeetCode: 400+ Problems Solved
 
 🏅 HackerRank Badges
 - Python 4★
